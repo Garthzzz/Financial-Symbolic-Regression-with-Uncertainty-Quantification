@@ -299,4 +299,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-**Contact**: [email] | **Issues**: [GitHub Issues](https://github.com/[username]/fsr-ie/issues)
+**Contact**: zhangzhengze2018@gmail.com
