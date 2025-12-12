@@ -243,8 +243,7 @@ fsr-ie/
 │   ├── FSR_IE_RealData_Academic.ipynb     # Classic economic relationships (6 tests)
 │   ├── FSR_IE_Research_v3.ipynb           # VRP, Factor Momentum, Crypto (synthetic)
 │   └── FSR_IE_Research_RealData_v3.ipynb  # Same research with real data
-└── data/
-    └── README.md                           # Data sources documentation
+
 ```
 
 > **Note**: The framework is currently implemented within notebooks. A standalone Python package (`pip install fsr-ie`) is planned for future release.
